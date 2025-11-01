@@ -27,11 +27,11 @@ The LED turns ON only if both conditions are true.
 Serial Monitor logs the system status for debugging and testing.
 
 🔌 Connections
-Detailed pin connections are listed in the connections file.
+Detailed pin connections are listed in [`connections`](./connections):.
 Each sensor’s output pin connects to the defined GPIO pins in the code.
 
-👥 Team
-Developed collaboratively by
+👥 Team  
+Developed collaboratively by  
 ALVIN SAJU  
 BASIL PETER 
 GOVIND JAYAPAL  

@@ -5,6 +5,7 @@ This project automates lighting using **IR** and **LDR** sensors to detect motio
 ---
 
 ## ⚙️ Features
+
 - Automatic LED control based on **motion** and **light intensity**
 - Real-time detection and response using **IR** and **LDR** sensors  
 - Beginner-friendly design  
@@ -12,6 +13,7 @@ This project automates lighting using **IR** and **LDR** sensors to detect motio
 ---
 
 ## 🧰 Hardware Used
+
 - **IR Sensor (PIR)** – Detects motion  
 - **LDR Sensor** – Detects ambient light level  
 - **LED** – Output indicator  
@@ -20,6 +22,7 @@ This project automates lighting using **IR** and **LDR** sensors to detect motio
 ---
 
 ## 🧾 Code Overview
+
 The main logic is implemented in [`project_code.ino`](./project_code.ino):
 
 The LED turns ON only if both conditions are true.
@@ -32,7 +35,7 @@ Detailed pin connections are listed in [`connections`](./connections):
 👥 Team  
 Developed collaboratively by  
 ALVIN SAJU  
-BASIL PETER 
+BASIL PETER
 GOVIND JAYAPAL  
 JOYAL  
 NANDAGOPAL  

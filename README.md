@@ -35,7 +35,7 @@ Detailed pin connections are listed in [`connections`](./connections):
 👥 Team  
 Developed collaboratively by  
 ALVIN SAJU  
-BASIL PETER
+BASIL PETER  
 GOVIND JAYAPAL  
 JOYAL  
 NANDAGOPAL  
